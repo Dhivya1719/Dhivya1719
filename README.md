@@ -16,7 +16,7 @@ I’m Dhivya Sree, an aspiring **Full Stack Developer** on a journey to master b
 Here are a few of the projects I've worked on:
 
 - **[Bookshop](link-to-your-project)**: A brief description of what the project is about and the technologies used.
-- **[Craft Tutor](link-to-your-project)**: A brief description of what the project is about and the technologies used.
+- **[Craft Tutor](https://github.com/Dhivya1719/craft_tutor.git)**: A brief description of what the project is about and the technologies used.
 
 ## 📫 Get in Touch
 
